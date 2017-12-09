@@ -1,0 +1,25 @@
+{
+  "name": "edistask1",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "aws-es": "^1.5.3",
+    "aws-sdk": "^2.89.0",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "cookie-session": "^2.0.0-beta.2",
+    "debug": "~2.6.3",
+    "elasticsearch": "latest",
+    "express": "~4.15.2",
+    "express-session": "^1.15.3",
+    "hashmap": "^2.1.0",
+    "hbs": "~4.0.1",
+    "http-aws-es": "^2.0.4",
+    "morgan": "~1.8.1",
+    "mysql": "latest",
+    "serve-favicon": "~2.4.2"
+  }
+}
